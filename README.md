@@ -9,4 +9,4 @@ For how to download and install, refer to [**Download and install**](https://gol
 If you want to see a simple manual, you can refer to the [**Documentation**](https://golang.org/doc/).
 
 ## Lecture Video
-- [Tucker Programming-컴맹을 위한 Go언어 기초 프로그래밍 강좌](https://youtu.be/Tq3W8UyltFs)
+- [An Introduction to Programming in Go](http://codingnuri.com/golang-book/)
