@@ -8,5 +8,7 @@ For how to download and install, refer to [**Download and install**](https://gol
 
 If you want to see a simple manual, you can refer to the [**Documentation**](https://golang.org/doc/).
 
-## Lecture Video
-- [An Introduction to Programming in Go](http://codingnuri.com/golang-book/)
+## Lecture Documents & Videos
+- [Documents: **An Introduction to Programming in Go**](http://codingnuri.com/golang-book/)
+- [Videos: **Learn Go Programming - Go Tutorial for Beginners(7hours)**](https://youtu.be/YS4e4q9oBaU)
+- [Videos: **Learn Google's Go(Golang) Programming Language(2021)**](https://youtu.be/Zhq4O7vEqq8)
