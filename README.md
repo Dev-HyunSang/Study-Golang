@@ -34,5 +34,6 @@ If you want to see a simple manual, you can refer to the [**Documentation**](htt
 
 ## Lecture Documents & Videos
 - [Documents: **An Introduction to Programming in Go**](http://codingnuri.com/golang-book/)
+- [Videos: **Go 로 만드는 웹**](https://youtu.be/4Oml8mbBXgo)
 - [Videos: **Learn Go Programming - Go Tutorial for Beginners(7hours)**](https://youtu.be/YS4e4q9oBaU)
 - [Videos: **Learn Google's Go(Golang) Programming Language(2021)**](https://youtu.be/Zhq4O7vEqq8)
