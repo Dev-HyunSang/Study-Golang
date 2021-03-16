@@ -21,6 +21,10 @@ String => JSON Transfer
 {"first_name":"HyunSang","last_name":"Park","email":"hyun.sang@parkhyunsang.com","created_at":"2021-03-13T16:30:24.447374+09:00"}
 */
 
+func indexHandler(w http.ResponseWriter, r *http.Request) {
+	fmt.Fprint(w, "Hello World")
+}
+
 type fooHandler struct{}
 
 func (f *fooHandler) ServeHTTP(w http.ResponseWriter, r *http.Request) {
@@ -50,9 +54,7 @@ func barHandler(w http.ResponseWriter, r *http.Request) {
 
 func NewHttpHandler() http.Handle {
 	mux := http.NewServeMux()
-	mux.HandleFunc("/", func(w http.ResponseWriter, r *http.Request) {
-		fmt.Fprint(w, "Hello World")
-	})
+	mux.HandleFunc("/", indexHandler)
 
 	mux.HandleFunc("/bar", barHandler)
 
